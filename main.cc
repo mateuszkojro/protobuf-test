@@ -12,5 +12,4 @@ int main() {
     phone->set_type(example::Person::PhoneType::Person_PhoneType_WORK);
   }
   std::cout << person.DebugString() << std::endl;
-  example::AddressBook::descriptor()
 }
